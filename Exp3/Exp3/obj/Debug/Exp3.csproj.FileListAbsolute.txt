@@ -1,0 +1,7 @@
+D:\TY Subjects\Advanced .Net\Assignments\Exp3\Exp3\bin\Debug\Exp3.exe.config
+D:\TY Subjects\Advanced .Net\Assignments\Exp3\Exp3\bin\Debug\Exp3.exe
+D:\TY Subjects\Advanced .Net\Assignments\Exp3\Exp3\bin\Debug\Exp3.pdb
+D:\TY Subjects\Advanced .Net\Assignments\Exp3\Exp3\obj\Debug\Exp3.csproj.AssemblyReference.cache
+D:\TY Subjects\Advanced .Net\Assignments\Exp3\Exp3\obj\Debug\Exp3.csproj.CoreCompileInputs.cache
+D:\TY Subjects\Advanced .Net\Assignments\Exp3\Exp3\obj\Debug\Exp3.exe
+D:\TY Subjects\Advanced .Net\Assignments\Exp3\Exp3\obj\Debug\Exp3.pdb
