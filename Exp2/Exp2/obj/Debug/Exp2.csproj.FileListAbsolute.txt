@@ -5,3 +5,10 @@ D:\TY Subjects\Advanced .Net\Assignments\Exp2\Exp2\obj\Debug\Exp2.csproj.Assembl
 D:\TY Subjects\Advanced .Net\Assignments\Exp2\Exp2\obj\Debug\Exp2.csproj.CoreCompileInputs.cache
 D:\TY Subjects\Advanced .Net\Assignments\Exp2\Exp2\obj\Debug\Exp2.exe
 D:\TY Subjects\Advanced .Net\Assignments\Exp2\Exp2\obj\Debug\Exp2.pdb
+D:\TY Subjects\ADN\Exp2\Exp2\bin\Debug\Exp2.exe.config
+D:\TY Subjects\ADN\Exp2\Exp2\bin\Debug\Exp2.exe
+D:\TY Subjects\ADN\Exp2\Exp2\bin\Debug\Exp2.pdb
+D:\TY Subjects\ADN\Exp2\Exp2\obj\Debug\Exp2.csproj.AssemblyReference.cache
+D:\TY Subjects\ADN\Exp2\Exp2\obj\Debug\Exp2.csproj.CoreCompileInputs.cache
+D:\TY Subjects\ADN\Exp2\Exp2\obj\Debug\Exp2.exe
+D:\TY Subjects\ADN\Exp2\Exp2\obj\Debug\Exp2.pdb

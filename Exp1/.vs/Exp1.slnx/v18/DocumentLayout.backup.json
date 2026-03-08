@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TY Subjects\\Advanced .Net\\Assignments\\Exp1\\",
+  "WorkspaceRootPath": "D:\\TY Subjects\\ADN\\Exp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49EACB6C-7336-4598-B12A-99886133743C}|Exp1\\Exp1.csproj|d:\\ty subjects\\advanced .net\\assignments\\exp1\\exp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49EACB6C-7336-4598-B12A-99886133743C}|Exp1\\Exp1.csproj|solutionrelative:exp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TY Subjects\\ADN\\Exp1\\Exp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TY Subjects\\Advanced .Net\\Assignments\\Exp1\\Exp1\\Program.cs",
-              "RelativeDocumentMoniker": "Exp1\\Program.cs",
-              "ToolTip": "D:\\TY Subjects\\Advanced .Net\\Assignments\\Exp1\\Exp1\\Program.cs",
-              "RelativeToolTip": "Exp1\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAZAAAAAAAAAA==",
+              "Title": "Exp1.cs",
+              "DocumentMoniker": "D:\\TY Subjects\\ADN\\Exp1\\Exp1.cs",
+              "RelativeDocumentMoniker": "Exp1.cs",
+              "ToolTip": "D:\\TY Subjects\\ADN\\Exp1\\Exp1.cs",
+              "RelativeToolTip": "Exp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T09:11:58.565Z",
+              "WhenOpened": "2026-03-08T16:07:08.064Z",
               "EditorCaption": ""
             }
           ]
